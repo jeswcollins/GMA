@@ -14,4 +14,4 @@ I think the GMA did reduce the amount of time spent on scheduling.
 
 I did not receive any requests that we go back to the old, GMA-free system.
 
-There was and perhaps continues to be some confusion about whether the GMA is a separate entity or a handle I have been using to sign my emails.
+There was and perhaps continues to be some confusion about whether the GMA is a separate entity from me or just a handle I have been using to sign my emails.
