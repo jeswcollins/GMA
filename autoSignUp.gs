@@ -36,43 +36,22 @@ month[9]="October";
 month[10]="November";
 month[11]="December";
 
-var groupActivitiesCalid = "manoharan.deas.harvard.edu_27q2b011enc4fc22gpci004lus@group.calendar.google.com"
-var autoSignUpSheetId="0AvcRW5U_a5stdFlfRnBodE5odlNHRWc3cGZsOGVJRXc"
-var mostRecentDatesSheetId="0AvcRW5U_a5stdDVqU0pBYTdxT0pkYkRoNlN4c00tT1E"
-var GMAMoreInfo="https://sites.google.com/a/manoharan.deas.harvard.edu/intranet/group-meeting"
+var groupActivitiesCalid = "group.school.edu_somerandomstring@group.calendar.google.com"
+var autoSignUpSheetId="ID_of_a_Google_Spreadsheet_You_Can_Write_to"
+var mostRecentDatesSheetId="ID_of_a_Google_Spreadsheet_You_Can_Write_to"
+var GMAMoreInfo="https://sites.google.com/a/group.school.edu/intranet/group-meeting"
 var GMAsignature='\n\nBest,\nGMA (Group Meeting Automaton)\n'+GMAMoreInfo
   
 var groupEmailAddresses=new Object();
-groupEmailAddresses["Ben"]="wrogers@manoharan.deas.harvard.edu"
-groupEmailAddresses["Becca"]="rperry@manoharan.deas.harvard.edu"
-groupEmailAddresses["Jesse"]="jcollins@manoharan.deas.harvard.edu"
-//groupEmailAddresses["Maddy"]="mcorbett@manoharan.deas.harvard.edu"
-groupEmailAddresses["Tom"]="tdimiduk@manoharan.deas.harvard.edu"
-groupEmailAddresses["Nick"]="nschade@manoharan.deas.harvard.edu"
-groupEmailAddresses["Jerome"]="jfung@manoharan.deas.harvard.edu"
-groupEmailAddresses["Jin-Gyu"]="jgpark@manoharan.deas.harvard.edu"
-groupEmailAddresses["Sofia"]="sofia@manoharan.deas.harvard.edu"
-groupEmailAddresses["Anna"]="annawang@manoharan.deas.harvard.edu"
-groupEmailAddresses["Guangnan"]="gnmeng@manoharan.deas.harvard.edu"
-//groupEmailAddresses["test"]="jcollins@manoharan.deas.harvard.edu"
+groupEmailAddresses["Bob"]="bob@group.school.edu"
+groupEmailAddresses["Alice"]="alice@group.school.edu"
 
 var groupNames=new Array();
-groupNames[0]="Ben";
-groupNames[1]="Jesse";
-groupNames[2]="Becca";
-groupNames[3]="Guangnan"
-groupNames[4]="Tom"
-groupNames[5]="Nick"
-groupNames[6]="Jerome"
-groupNames[7]="Jin-Gyu"
-groupNames[8]="Sofia"
-groupNames[9]="Anna"
-//groupNames[10]="test"
-  
+groupNames[0]="Bob";
+groupNames[1]="Alice";
+
 groupNames.sort()
-/*groupNames[11]="Rebecca"
-groupNames[12]="Madeleine"*/
-  
+
 Object.size = function(obj) {
     var size = 0, key;
     for (key in obj) {
