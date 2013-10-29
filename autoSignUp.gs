@@ -464,9 +464,8 @@ GmailApp.sendEmail(emailList,
 function remindIfNoDescription() {/*function to run day before the day before group meeting
  reminds the presenters to fill description field.
 */
-//var emailList="jcollins@manoharan.deas.harvard.edu"
-//var emailAddress="jcollins@manoharan.deas.harvard.edu"
-var emailList="manoharanlab@seas.harvard.edu"
+
+var emailList="group_mailing_list@school.edu"
 
 event0=findNextGroupMeetingEvent(0,5);
 //Logger.log(event0)
