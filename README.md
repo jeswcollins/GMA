@@ -10,7 +10,7 @@ I wrote this code to smooth the process of choosing a speaker for the weekly gro
 
 The hope was that more people would volunteer for group meeting and that less time would be spend on awkwardly waiting for someone to volunteer or our boss deciding who would "volunteer."
 
-I think the GMA did reduce the amount of time spent on scheduling. 
+I think the GMA did reduce the amount of time spent on scheduling, and may have encouraged people to sign up on their own. 
 
 I did not receive any requests that we go back to the old, GMA-free system.
 
