@@ -366,8 +366,7 @@ function planNextGroupMeeting() {/*function to run during or just after current 
         send an email to this individual informing them of their auto-sign-up status.
     if no one has been selected for auto-sign up, this email will state that fact */
 
-//var emailList="jcollins@manoharan.deas.harvard.edu"
-var emailList="manoharanlab@seas.harvard.edu"
+var emailList="your_group_mailinglist@school.edu"
 
 var gm=findNextGroupMeetingEvent(-2,7)
 if (gm == "")
