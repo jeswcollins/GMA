@@ -1,4 +1,4 @@
 GMA
 ===
 
-Group Meeting Automaton -- Reminders and Automated Sign Ups for Leading Group Discussions (Google Script)
+Group Meeting Automaton -- Automated Reminders and Sign Ups for Leading Group Discussions (Google Script)
