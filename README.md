@@ -8,7 +8,7 @@ Group Meeting Automaton -- Automated Reminders and Sign Ups for Leading Events (
 
 I wrote this code to smooth the process of choosing a speaker for the weekly group meeting of our laboratory group in Applied Physics/Physics at Harvard.
 
-The hope was that more people would volunteer for group meeting and that less time would be spend on awkwardly waiting for someone to volunteer or our boss deciding who would "volunteer."
+The hope was that more people would volunteer more frequently for group meeting and that we'd spend less time on awkwardly waiting for someone to volunteer or for our boss to decide who would "volunteer."
 
 I think the GMA did reduce the amount of time spent on scheduling, and may have encouraged people to sign up on their own. 
 
