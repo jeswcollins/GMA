@@ -18,6 +18,6 @@ I wrote this code to smooth the process of choosing a speaker for the weekly gro
 
 The hope was that more people would volunteer more frequently for group meeting and that we'd spend less time awkwardly waiting for someone to volunteer or for our boss to decide who would "volunteer." I think the GMA did reduce the amount of time spent on scheduling, and may have encouraged people to sign up on their own. 
 
-I did not receive any requests that we go back to the old, GMA-free system.
+I did not receive any requests that we go back to the old, GMA-free system. More recently, I have turned off the GMA's Auto-Sign Up feature so that it only provides reminders.  With Auto-Sign Up disabled, more group meetings seem to come to pass without anyone being signed up, at which point the GMA simply cancels the meeting.  It is difficult to say that the lack of participation has been caused by the Auto Sign Up disabling, in part because our boss hasn't been in town during much of the same time.
 
 There was and perhaps continues to be some confusion about whether the GMA is a separate entity from me or just a handle I have been using to sign my emails.
