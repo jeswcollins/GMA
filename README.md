@@ -10,7 +10,7 @@ Automated Reminders, Sign Ups, and Latest Presentation Date Tracking for Leading
   - requires Google Calendar and Documents
   - Features:
       - Maintains a spreadsheet of the latest dates each group member gave a presentation (or lead an event more generally)
-      - Signs someone up automatically to lead the next event if no one is signed up.  In our experience, the GMA signs up typically the person who has had the most time elapse since they previously lead the event, although the algorithm might not select that person if they are signed up to present shortly thereafter.
+      - Signs someone up automatically to lead the next event if no one is signed up.  In our experience, the GMA signs up typically the person who has had the most time elapse since they previously lead the event, although the algorithm is set not to select that person if they are signed up to present shortly thereafter.
       - Reminders: reminds the group about upcoming events, gently nudges its choice to sign up before the GMA signs him or her up automatically, and reminds the leader of the upcoming event to describe it if they haven't  
 
 
