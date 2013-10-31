@@ -1,7 +1,7 @@
 GMA
 ===
 
-Group Meeting Automaton -- Facilitates the Choosing of a Group Member to Lead a Recurring Event
+Group Meeting Automaton -- Facilitates the Choosing of a Group Member to Lead a Recurring Event and Related Tasks
 
 (so that we can all focus our brains on something else, such as "doing science")
 
