@@ -1,9 +1,13 @@
 GMA
 ===
 
-Group Meeting Automaton -- Automated Reminders and Sign Ups for Leading Events (Google Script)
+Group Meeting Automaton -- Automated Reminders, Sign Ups, and Latest Presentation Date Tracking for Leading Group Meetings (Google Script)
 
   - requires Google Calendar and Documents
+  - Features:
+      - Maintains a spreadsheet of the latest dates each group member gave a presentation (or lead an event more generally)
+      - Signs someone up automatically to lead the next event if no one is signed up.  Usually the person who has had the most time elapse since they previously lead the event
+      - Reminders: reminds the group about upcoming events, gently nudges its choice to sign up before the GMA signs him or her up automatically, and reminds the leader of the upcoming event to describe it if they haven't  
 
 
 I wrote this code to smooth the process of choosing a speaker for the weekly group meeting of our laboratory group in Applied Physics/Physics at Harvard.
