@@ -1,7 +1,11 @@
 GMA
 ===
 
-Group Meeting Automaton -- Automated Reminders, Sign Ups, and Latest Presentation Date Tracking for Leading Group Meetings (Google Script)
+Group Meeting Automaton -- Facilitates the Choosing of a Group Member to Lead a Recurring Event
+
+(so that we can all focus our brains on something else, such as "doing science")
+
+Automated Reminders, Sign Ups, and Latest Presentation Date Tracking for Leading Group Meetings (Google Script)
 
   - requires Google Calendar and Documents
   - Features:
