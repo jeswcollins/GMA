@@ -13,7 +13,7 @@ Automated Reminders, Sign Ups, and Latest Presentation Date Tracking for Leading
       - Reminders: reminds the group about upcoming events, encourages/warns its choice to sign up before the GMA signs him or her up automatically.  The GMA reminds the leader of the upcoming event to describe their event if they haven't. 
 
 
-I wrote this code to smooth the process of choosing a speaker for the weekly group meeting of our laboratory group in Applied Physics/Physics at Harvard.
+As the group meeting scheduling Czar/Tsar, I wrote this code to smooth the process of choosing a speaker for the weekly group meeting of our laboratory group in Applied Physics/Physics at Harvard.
 
 The hope was that more people would volunteer more frequently for group meeting and that we'd spend less time awkwardly waiting for someone to volunteer or for our boss to decide who would "volunteer." I think the GMA did reduce the amount of time spent on scheduling, and may have encouraged people to sign up on their own. 
 
