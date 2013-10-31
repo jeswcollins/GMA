@@ -2,7 +2,7 @@
 automatically signing people up, reminding the group about the upcoming meeting, and reminding presenters
 if their event lacks a description
 
-trigger settings:
+Guide for trigger settings for a weekly group meeting:
 
 planNextGroupMeeting -- during group meeting
 overwriteDatesifNewerScraped -- shortly after group meeting
