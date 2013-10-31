@@ -2,8 +2,7 @@ GMA
 ===
 
 Group Meeting Automaton -- Facilitates the Choosing of a Group Member to Lead a Recurring Event and Related Tasks
-
-    -(so that we can all focus our brains on something else, such as "doing science")
+    (so that we can all focus our brains on something else, such as "doing science")
 
 Automated Reminders, Sign Ups, and Latest Presentation Date Tracking for Leading Group Meetings (Google Script)
 
