@@ -17,7 +17,7 @@ As the group meeting scheduling Czar/Tsar, I wrote this code to smooth the proce
 
 The hope was that more of us would volunteer more frequently for group meeting and that we'd spend less time awkwardly waiting for someone to volunteer or for our boss to decide who would "volunteer." I think the GMA did reduce the amount of time spent on scheduling, and may have encouraged people to sign up on their own. 
 
-In principle one could "outsmart" the GMA by continuously signing up to lead a meeting a week or a few more after the coming meeting, then removing their name from that time slot and quickly signing up for another time slot slightly further in the future. I don't think anyone actually did that.  
+In principle one could "outsmart" the GMA by continuously signing up to lead a meeting a week or a few more after the coming meeting, waiting some days or weeks, then removing their name from that time slot with more than a week to go and quickly signing up for another time slot slightly further in the future. I don't think anyone actually did that.  
 
 I have not received any requests that we go back to the old, GMA-free system.  People seem to have gotten some laughs out of the GMA.  At least one person seemed to be uncertain whether the GMA is a separate entity from me or just a handle I have been using to sign some emails.  I'm not sure I'd say that I've gone out of my way to convince anyone that the GMA is anything more than a moniker I suddenly started assuming in emails pertaining to group meetings.
 
