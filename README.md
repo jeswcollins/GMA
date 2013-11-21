@@ -21,6 +21,9 @@ We use this code as a Google App script. Here are the triggers as set up for a w
     scrapeLatestWritetoSheet 11am to noon Every Thursday
     planNextGroupMeeting Noon to 1pm Every Thursday
 
+
+Background:
+
 As the group meeting scheduling Czar/Tsar, I wrote this code to smooth the process of choosing a speaker for the weekly group meeting of our laboratory group in Applied Physics/Physics at Harvard.
 
 The hope was that more of us would volunteer more frequently for group meeting and that we'd spend less time awkwardly waiting for someone to volunteer or for our boss to decide who would "volunteer." I think the GMA did reduce the amount of time spent on scheduling, and may have encouraged people to sign up on their own. 
