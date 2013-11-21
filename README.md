@@ -22,7 +22,7 @@ We use this code as a Google App script. Here are the triggers as set up for a w
     planNextGroupMeeting Noon to 1pm Every Thursday
 
 
-Background:
+<b>Background:</b>
 
 As the group meeting scheduling Czar/Tsar, I wrote this code to smooth the process of choosing a speaker for the weekly group meeting of our laboratory group in Applied Physics/Physics at Harvard.
 
