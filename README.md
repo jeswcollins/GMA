@@ -33,7 +33,7 @@ Our group had about 11 potential presentators when first trying out the GMA. So 
 
 <b>Results</b>
 
-In principle one could "outsmart" the GMA by signing their name to give a talk after the current week, but within "xDaysAhead", and continually pushing back their scheduled presentation. I don't think anyone actually did that.
+In principle one could "outsmart" the GMA by signing their name to give a talk after the current week, but within "xDaysAhead", and continually pushing back their scheduled presentation. I don't think anyone actually did that. Also in principle, some who just presented could be asked by the GMA to sign up again if all the other group members had signed up in the next 11 weeks in our case. In practice, that type of scenario didn't occur. We had a mix of people voluntarily signing up and others waiting for the GMA to sign them up.
 
 The GMA seems to have inspired some jokes & laughs among team members. One time the GMA sort of went haywire and kept sending out e-mails to the group. My bad, but it was also kind of funny. Later, a quip may or may not have been made about who would gain the ability to express emotions first, one Harvard Physics PI in particular or the GMA ;)
 
