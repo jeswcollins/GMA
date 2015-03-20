@@ -35,7 +35,7 @@ Our group had about 11 potential presentators when first trying out the GMA. So 
 
 In principle one could "outsmart" the GMA by signing their name to give a talk after the current week, but within "xDaysAhead", and continually pushing back their scheduled presentation. I don't think anyone actually did that. Also in principle, a labmate who just presented could be asked by the GMA to present again immediately if all the other group members had signed up in the next 11 weeks in our case. In practice, that type of scenario didn't occur. We had a mix of people voluntarily signing up and others waiting for the GMA to sign them up.
 
-The GMA seems to have inspired some jokes & laughs among team members. One time the GMA sort of went haywire and kept sending out e-mails to the group. My bad, but it was also kind of funny. Later, a quip may or may not have been made about who would gain the ability to express emotions first, one Harvard Physics PI in particular or the GMA ;)
+The GMA seems to have inspired some jokes & laughs among team members. One time the GMA sort of went haywire and kept sending out e-mails to the group. My bad, but it was also kind of funny. Later, a quip may or may not have been made about who would gain the ability to experience emotion first, one Harvard Physics professor in particular or the GMA ;)
 
 At least one person seemed to be uncertain whether the GMA was a separate entity from me or just a handle I had been using to sign some emails.  At the time, I hadn't really gone out of my way to convince others that the GMA was anything more than a moniker I suddenly started assuming in emails pertaining to group meetings. This lead to a quasi-philosophical discussion of what or who is or isn't an "automaton."
 
