@@ -12,7 +12,7 @@ GMA
 
 <b>Background/Motivation</b>
 
-As the group meeting scheduling Czar/Tsar, I wrote this code to smooth the process of choosing a speaker for the [weekly group meeting](http://www.manoharan.seas.harvard.edu/group-meeting.html) of the [Manoharan laboratory group](http://www.manoharan.seas.harvard.edu/home.html) in Applied Physics/Physics at Harvard. The hope was that more of us would volunteer more frequently for group meeting and that we'd spend less time awkwardly waiting for someone to volunteer or for our boss to decide who would "volunteer."
+As the group meeting scheduling Czar/Tsar, I wrote this code to smooth the process of choosing a speaker for the [weekly group meeting](http://www.manoharan.seas.harvard.edu/group-meeting.html) of the [Manoharan laboratory group](http://www.manoharan.seas.harvard.edu/home.html) in Applied Physics/Physics at Harvard. The hope was that more of us would volunteer more frequently for group meeting and that we'd spend less time awkwardly waiting for someone to volunteer or for our advisor to decide who would "volunteer."
 
 <b>Method/Implementation</b>
 
