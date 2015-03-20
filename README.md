@@ -29,7 +29,7 @@ The code runs automatically after being set up as a Google App script. Here are 
 
 In principle one could "outsmart" the GMA by continuously signing up to lead a meeting a week or a few more after the coming meeting, waiting some days or weeks, then removing their name from that time slot with more than a week to go and quickly signing up for another time slot slightly further in the future. I don't think anyone actually did that.  
 
-The GMA seems to have inspired some jokes/laughs among team members. One time the GMA sort of went haywire and kept sending out e-mails to the group. My bad, but it was also kind of funny. A quip may or may not have been made about who would gain the ability to express emotions first, one Harvard Physics PI in particular or the GMA ;)
+The GMA seems to have inspired some jokes & laughs among team members. One time the GMA sort of went haywire and kept sending out e-mails to the group. My bad, but it was also kind of funny. A quip may or may not have been made about who would gain the ability to express emotions first, one Harvard Physics PI in particular or the GMA ;)
 
 At least one person seemed to be uncertain whether the GMA is a separate entity from me or just a handle I have been using to sign some emails. This lead to a quasi-philosophical discussion of what or who is or isn't an "automaton." At the time, I hadn't really gone out of my way to convince others that the GMA was anything more than a moniker I suddenly started assuming in emails pertaining to group meetings.
 
