@@ -7,7 +7,7 @@ Group Meeting Automaton -- Google Web App that Chooses a Group Member to Lead a 
   - Requires: Google Calendar and Documents, Group Member Names and E-mail Addresses
   - Features:
       - Maintains a spreadsheet of the latest dates each group member putatively gave a presentation (or lead an event more generally)
-      - Signs someone up automatically to lead the next event if no one is signed up.  In our experience, the GMA signs up typically the person who has had the most time elapse since they previously lead the event, although the algorithm is set not to select that person if they are signed up to present shortly thereafter.  The GMA encourages/warns its choice to sign up voluntarily before the GMA signs him or her up automatically. 
+      - Signs someone up automatically to lead the next event if no one is signed up.  In our experience, the GMA signs up typically the person who has had the most time elapse since they previously lead the event, although the algorithm is set not to select that person if they are signed up to present shortly thereafter.  The GMA encourages/warns its choice to sign up voluntarily before the GMA signs them r up automatically. 
       - Reminders: The GMA reminds the group about each upcoming meeting.   The GMA reminds the leader of the upcoming event to describe their event if they haven't. 
 
 We use this code as a Google App script. Here are the triggers as set up for a weekly meeting on Thursdays 10:30 am-noon:
