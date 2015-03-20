@@ -10,6 +10,12 @@ Group Meeting Automaton -- Google Web App that Chooses a Group Member to Lead a 
       - Signs someone up automatically to lead the next event if no one is signed up.  In our experience, the GMA signs up typically the person who has had the most time elapse since they previously lead the event, although the algorithm is set not to select that person if they are signed up to present shortly thereafter.  The GMA encourages/warns its choice to sign up voluntarily before the GMA signs them r up automatically. 
       - Reminders: The GMA reminds the group about each upcoming meeting.   The GMA reminds the leader of the upcoming event to describe their event if they haven't. 
 
+<b>Background/Motivation</b>
+
+As the group meeting scheduling Czar/Tsar, I wrote this code to smooth the process of choosing a speaker for the weekly group meeting of our laboratory group in Applied Physics/Physics at Harvard. The hope was that more of us would volunteer more frequently for group meeting and that we'd spend less time awkwardly waiting for someone to volunteer or for our boss to decide who would "volunteer."
+
+<b>Method/Implementation</b>
+
 We use this code as a Google App script. Here are the triggers as set up for a weekly meeting on Thursdays 10:30 am-noon:
 
     autoSignUp 10am to 11am Every Sunday
@@ -18,11 +24,6 @@ We use this code as a Google App script. Here are the triggers as set up for a w
     remindifNoDescription 10am to 11am Every Tuesday
     scrapeLatestWritetoSheet 11am to noon Every Thursday
     planNextGroupMeeting Noon to 1pm Every Thursday
-
-
-<b>Background/Motivation</b>
-
-As the group meeting scheduling Czar/Tsar, I wrote this code to smooth the process of choosing a speaker for the weekly group meeting of our laboratory group in Applied Physics/Physics at Harvard. The hope was that more of us would volunteer more frequently for group meeting and that we'd spend less time awkwardly waiting for someone to volunteer or for our boss to decide who would "volunteer."
 
 <b>Results</b>
 
