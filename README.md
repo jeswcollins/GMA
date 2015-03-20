@@ -16,7 +16,7 @@ As the group meeting scheduling Czar/Tsar, I wrote this code to smooth the proce
 
 <b>Method/Implementation</b>
 
-We use this code as a Google App script. Here are the triggers we had set up for a weekly meeting on Thursdays 10:30 am-noon:
+The code runs automatically after being set up as a Google App script. Here are the triggers we had set up for a weekly meeting on Thursdays 10:30 am-noon:
 
     autoSignUp 10am to 11am Every Sunday
     reminderEmail 10am to 11am Every Wednesday
