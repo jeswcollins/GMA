@@ -7,7 +7,7 @@ GMA - Group Meeting Automaton
   - Requires: Google Calendar and Documents, Group Member Names and E-mail Addresses
   - Features:
       - Maintains a spreadsheet of the latest dates each group member putatively gave a presentation (or lead an event more generally)
-      - Signs someone up automatically to lead the next event if no one is signed up.  The GMA's algorithm chooses the person who has had the most time elapse since they previously lead the event, unless that person's name is already scheduled on the Google Calendar to present shortly thereafter.  The GMA encourages/warns its choice to sign up voluntarily before the GMA signs them up automatically. 
+      - Signs a group member up automatically to lead the next event if no one is signed up.  The GMA's algorithm chooses the person who has had the most time elapse since they previously lead the event, unless that person's name is already scheduled on the Google Calendar to present shortly thereafter.  The GMA encourages/warns its choice to sign up voluntarily before the GMA signs them up automatically. 
       - Reminders: The GMA reminds the group about each upcoming meeting.   The GMA reminds the leader of the upcoming event to describe their event if they haven't. 
 
 <b>Background/Motivation</b>
