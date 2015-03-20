@@ -35,6 +35,6 @@ Over the GMA's first summer, I had turned off the GMA's Auto-Sign Up feature so 
 
 <b>Conclusions</b>
 
-The GMA reduced the amount of human time spent on choosing a speaker while maxmizing schedule flexibility. Flexibility is important because if a new piece of data arises, a student scientist may want to present it right away. On the other hand, even if a student scientist isn't eager to present, they might benefit from describing their work, any obstacles they're facing, and from suggestions/feedback. For our group, the GMA algorithm was preferred to following a hard speaker-line up or trying to choose a speaker at the end of each meeting.
+The GMA reduced the amount of human time spent on choosing a speaker while maxmizing schedule flexibility. Flexibility is important because if a new piece of data arises, a student scientist may want to present it right away. On the other hand, even if a student scientist isn't eager to present, they might benefit from describing their work, any obstacles they're facing, and from suggestions/feedback. For our group, the GMA algorithm was preferred to following a hard speaker line-up or trying to choose a speaker at the end of each meeting.
 
 If a group wants to get away with not having group meetings while their advisor is on sabbatical, it may be best not to automatically e-mail them a group meeting cancellation e-mail every week. This could be implemented with a "sabbatical" boolean.
