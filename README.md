@@ -22,13 +22,11 @@ We use this code as a Google App script. Here are the triggers as set up for a w
     planNextGroupMeeting Noon to 1pm Every Thursday
 
 
-<b>Background/Motivation:</b>
+<b>Background/Motivation</b>
 
-As the group meeting scheduling Czar/Tsar, I wrote this code to smooth the process of choosing a speaker for the weekly group meeting of our laboratory group in Applied Physics/Physics at Harvard.
+As the group meeting scheduling Czar/Tsar, I wrote this code to smooth the process of choosing a speaker for the weekly group meeting of our laboratory group in Applied Physics/Physics at Harvard. The hope was that more of us would volunteer more frequently for group meeting and that we'd spend less time awkwardly waiting for someone to volunteer or for our boss to decide who would "volunteer."
 
-The hope was that more of us would volunteer more frequently for group meeting and that we'd spend less time awkwardly waiting for someone to volunteer or for our boss to decide who would "volunteer." I think the GMA did reduce the amount of time spent on scheduling, and may have encouraged people to sign up on their own. 
-
-<b>Results:</b>
+<b>Results</b>
 
 In principle one could "outsmart" the GMA by continuously signing up to lead a meeting a week or a few more after the coming meeting, waiting some days or weeks, then removing their name from that time slot with more than a week to go and quickly signing up for another time slot slightly further in the future. I don't think anyone actually did that.  
 
@@ -36,3 +34,6 @@ I have not received any requests that we go back to the old, GMA-free system.  T
 
 Over the GMA's first summer, I had turned off the GMA's Auto-Sign Up feature so that it only provided reminders.  With Auto-Sign Up disabled, more group meetings seemed to approach without anyone having signed up, at which point the GMA declared the meetings cancelled while asking the group members to reinstate the meeting via a group-wide email if any of them would like to do so.  So far no one besides our boss has attempted to reinstate the meeting at that point, and so far he has only reinstated the meeting after the GMA's cancellation of it once. It is difficult to say that the lack of participation had been caused by the Auto Sign Up disabling, in part because our boss hadn't been in town during much of the same time.  Our boss claimed he became aware of our tendency to not hold meetings in his absence because he read the cancellation e-mails that the GMA started sending out every week.  Shortly after he insisted we have meetings without him, the rest of the group decided to re-implement the GMA's auto-sign up feature.
 
+<b>Conclusion</b>
+
+The GMA reduced the amount of human time spent on choosing a speaker while maxmizing flexibility. For our group, it was preferred to following a hard speaker-line up or trying to find a speaker at the end of each meeting.
