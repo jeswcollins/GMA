@@ -2,7 +2,7 @@ GMA - Group Meeting Automaton
 ===
 
 <i>GMA is a Google Web App that Chooses a Group Member to Lead a Recurring Event and Sends Reminders
-    (so that we can all focus our brains on something else, such as "doing science")<i>
+    (so that we can all focus our brains on something else, such as science!)<i>
     
   - Requires: Google Calendar and Documents, Group Member Names and E-mail Addresses
   - Features:
