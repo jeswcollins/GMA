@@ -27,7 +27,7 @@ The code runs automatically after being set up as a Google App script. Here are 
 
 When finding a candidate to give the next group meeting, the GMA checks future dates to make sure it doesn't sign someone up for this week if that person is signed up in the near future. The number of days in advance the GMA checks is given in the "xDaysAhead" variable. By default, the GMA checks as many weeks into the future as there are group members: 
 
-'''xDaysAhead : groupNames.length*7'''
+```xDaysAhead : groupNames.length*7```
 
 Our group had about 11 potential presentators. So the GMA was set to choose the group member who had the most time elapsed since giving a group but also hadn't signed up to give a talk in the next 11 weeks.
 
