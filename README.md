@@ -18,16 +18,22 @@ As the group meeting scheduling Czar/Tsar, I wrote this code to smooth the proce
 
 The code runs automatically after being set up as a Google App script. Here are the triggers we had set up for a weekly meeting on Thursdays 10:30 am-noon:
 
-    autoSignUp 10am to 11am Every Sunday
+    uatoSignUp 10am to 11am Every Sunday
     reminderEmail 10am to 11am Every Wednesday
     overwriteDatesifNewerScraped 11am to noon Every Thursday
     remindifNoDescription 10am to 11am Every Tuesday
     scrapeLatestWritetoSheet 11am to noon Every Thursday
     planNextGroupMeeting Noon to 1pm Every Thursday
 
+When finding a candidate to give the next group meeting, the GMA checks future dates to make sure it doesn't sign someone up for this week if that person is signed up in the near future. The number of days in advance the GMA checks is given in the "xDaysAhead" variable. By default, the GMA checks as many weeks into the future as there are group members: 
+
+'''xDaysAhead : groupNames.length*7'''
+
+Our group had about 11 potential presentators. So the GMA was set to choose the group member who had the most time elapsed since giving a group but also hadn't signed up to give a talk in the next 11 weeks.
+
 <b>Results</b>
 
-In principle one could "outsmart" the GMA by continuously signing up to lead a meeting a week or a few more after the coming meeting, waiting some days or weeks, then removing their name from that time slot with more than a week to go and quickly signing up for another time slot slightly further in the future. I don't think anyone actually did that.  
+In principle one could "outsmart" the GMA by signing their name to give a talk after the current week, but within "xDaysAhead", and continually pushing back their scheduled presentation. I don't think anyone actually did that. 
 
 The GMA seems to have inspired some jokes & laughs among team members. One time the GMA sort of went haywire and kept sending out e-mails to the group. My bad, but it was also kind of funny. Later, a quip may or may not have been made about who would gain the ability to express emotions first, one Harvard Physics PI in particular or the GMA ;)
 
