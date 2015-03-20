@@ -25,7 +25,7 @@ The code runs automatically after being set up as a Google App script. Here are 
     scrapeLatestWritetoSheet 11am to noon Every Thursday
     planNextGroupMeeting Noon to 1pm Every Thursday```
 
-When finding a candidate to give the next group meeting, the GMA checks future dates to make sure it doesn't sign someone up for this week if that person is signed up in the near future. The number of days in advance the GMA checks is given in the "xDaysAhead" variable. By default, the GMA checks as many weeks into the future as there are group members: 
+When finding a candidate to give the next group meeting, the GMA checks future dates to make sure it doesn't sign someone up for this week if that person is expecting to present in the near future. The number of days in advance the GMA checks is given in the "xDaysAhead" variable. By default, the GMA checks as many weeks into the future as there are group members: 
 
     xDaysAhead : groupNames.length*7
 
