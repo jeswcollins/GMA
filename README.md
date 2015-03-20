@@ -22,11 +22,13 @@ We use this code as a Google App script. Here are the triggers as set up for a w
     planNextGroupMeeting Noon to 1pm Every Thursday
 
 
-<b>Background/Anecdotes:</b>
+<b>Background/Motivation:</b>
 
 As the group meeting scheduling Czar/Tsar, I wrote this code to smooth the process of choosing a speaker for the weekly group meeting of our laboratory group in Applied Physics/Physics at Harvard.
 
 The hope was that more of us would volunteer more frequently for group meeting and that we'd spend less time awkwardly waiting for someone to volunteer or for our boss to decide who would "volunteer." I think the GMA did reduce the amount of time spent on scheduling, and may have encouraged people to sign up on their own. 
+
+<b>Results:</b>
 
 In principle one could "outsmart" the GMA by continuously signing up to lead a meeting a week or a few more after the coming meeting, waiting some days or weeks, then removing their name from that time slot with more than a week to go and quickly signing up for another time slot slightly further in the future. I don't think anyone actually did that.  
 
