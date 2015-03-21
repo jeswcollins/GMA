@@ -29,7 +29,7 @@ When finding a candidate to give the next group meeting, the GMA checks future d
 
     xDaysAhead : groupNames.length*7
 
-Our group had about 11 potential presentators when first trying out the GMA. So the GMA was set to choose the group member who had the most time elapsed since giving a group meeting who also hadn't signed up to give a talk in the next 11 weeks.
+Our group had about 11 potential presentaters when first trying out the GMA. So the GMA was set to choose the group member who had the most time elapsed since giving a group meeting who also hadn't signed up to give a talk in the next 11 weeks.
 
 <b>Results</b>
 
