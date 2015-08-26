@@ -41,7 +41,7 @@ At least one person seemed to be uncertain whether the GMA was a separate entity
 
 While our advisor was on sabbatical, I had turned off the GMA's Auto-Sign Up feature so that it only provided reminders. Group meetings would then approach without anyone signed up (neither voluntarily, nor automatically), at which point the GMA declared the meetings cancelled while asking the group members to reinstate the meeting via a group-wide email if any of them would like to do so. After one such cancellation, the group's PI, Vinny, asked we reinstate the meeting. After that the group voted to re-implement the GMA's auto-sign up feature.
 
-<b>Conclusions</b>
+<b>Discussion</b>
 
 The GMA reduced the amount of time spent choosing a speaker while maintaining schedule flexibility. Flexibility is important because if a new piece of data arises, a student scientist may want to present it right away. On the other hand, a student scientist probably shouldn't go too long without describing their work. They'd benefit from the process of preparing a presentation to their group, from giving the presentation, and from suggestions/feedback. For our group, the GMA algorithm was preferred to following a hard line-up of speakers or trying to "volunteer" a speaker at the end of each meeting.
 
