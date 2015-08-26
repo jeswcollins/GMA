@@ -12,7 +12,7 @@ GMA - Group Meeting Automaton
 
 <b>Background/Motivation</b>
 
-As the group meeting scheduling Czar/Tsar, I wrote this code to smooth the process of choosing a speaker for the approximately [weekly group meeting](http://www.manoharan.seas.harvard.edu/group-meeting.html) of the [Manoharan laboratory group](http://www.manoharan.seas.harvard.edu/home.html) in Harvard's Department of Physics and School of Engineering and Applied Sciences (SEAS). The hope was that more of us would volunteer more frequently for group meeting and that we'd spend less time awkwardly waiting for someone to volunteer or for our advisor to decide who would "volunteer."
+As the group meeting scheduling Czar/Tsar, I wrote this code to ease the process of choosing a speaker for the approximately [weekly group meeting](http://www.manoharan.seas.harvard.edu/group-meeting.html) of the [Manoharan laboratory group](http://www.manoharan.seas.harvard.edu/home.html) in Harvard's Department of Physics and School of Engineering and Applied Sciences (SEAS). The hope was that more of us would volunteer more frequently for group meeting and that we'd spend less time awkwardly waiting for someone to volunteer or for our advisor to decide who would "volunteer."
 
 <b>Method/Implementation</b>
 
