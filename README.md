@@ -1,7 +1,7 @@
 GMA - Group Meeting Automaton
 ===
 
-<i>GMA is a web app that chooses a group member to lead an instance of a recurring event and sends reminder e-mails
+<i>GMA is a web script that chooses a group member to lead an instance of a recurring event and sends reminder e-mails
     (so that we can all focus our brains on something else, such as science!)</i>
     
   - Requires: Google Calendar and Documents, Group Member Names and E-mail Addresses
@@ -48,3 +48,8 @@ While our advisor was on sabbatical, I had turned off the GMA's Auto-Sign Up fea
 The GMA reduced the amount of time spent choosing a speaker while maintaining schedule flexibility. Flexibility is important because if a new piece of data arises, a student scientist may want to present it right away. On the other hand, a student scientist probably shouldn't go too long without describing their work. They'd benefit from the process of preparing a presentation to their group, from giving the presentation, and from suggestions/feedback. For our group, the GMA algorithm was preferred to following a hard line-up of speakers or trying to "volunteer" a speaker at the end of each meeting.
 
 If a group wants to get away with not having group meetings while their advisor is on sabbatical, it may be best not to automatically send the advisor a group meeting cancellation e-mail every week. This feature could be implemented with a "sabbatical" boolean.
+
+<b>Future work</b>
+<ul>
+<li>Front End with forms/fields for updating group emails, email and meeting times, etc.f
+</ul>
