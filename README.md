@@ -51,5 +51,5 @@ If a group wants to get away with not having group meetings while their advisor 
 
 <b>Future work</b>
 <ul>
-<li>HTML/JS Front end with forms/fields for updating group emails, email and meeting times, etc.
+<li>HTML/JS Front end with forms/fields for updating group emails, meeting times, etc.
 </ul>
