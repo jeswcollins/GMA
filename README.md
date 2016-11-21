@@ -52,5 +52,5 @@ If a group wants to get away with not having group meetings while their advisor 
 <b>Future work</b>
 <ul>
 <li>HTML/JS Front end with forms/fields for updating group emails, meeting times, etc.
-<li>Back End with database so that Google APIs (Calendar, Email) aren't needed.
+<li>Back End with database so that Google APIs (Calendar, Sheets, Email) aren't needed.
 </ul>
