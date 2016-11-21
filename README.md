@@ -14,7 +14,7 @@ Contributions, criticism, and questions are welcome.
 
 <b>Background/Motivation</b>
 
-As the group meeting scheduling Czar/Tsar, I wrote this code to ease the process of choosing a speaker for the approximately [weekly group meeting](http://www.manoharan.seas.harvard.edu/group-meeting.html) of the [Manoharan laboratory group](http://www.manoharan.seas.harvard.edu/home.html) in Harvard's Department of Physics and School of Engineering and Applied Sciences (SEAS). The hope was that, with this code implemented, more of us would volunteer more frequently for group meeting and that we'd spend less time awkwardly waiting for someone to volunteer or for our advisor to decide who would "volunteer."
+As the group meeting scheduling Czar/Tsar, I wrote this code to ease the process of choosing a speaker for the approximately [weekly group meeting](http://www.manoharan.seas.harvard.edu/group-meeting.html) of the [Manoharan laboratory group](http://www.manoharan.seas.harvard.edu/home.html) in Harvard's Department of Physics and School of Engineering and Applied Sciences (SEAS). The hope was that, with this code implemented, more of us would volunteer more frequently for group meeting and that we'd spend less time awkwardly waiting for someone to volunteer, i.e. awkwardly forcing our advisor to decide who would "volunteer."
 
 <b>Method/Implementation</b>
 
@@ -23,7 +23,7 @@ The code runs automatically after being set up as a Google App script. Here are 
     autoSignUp 10am to 11am Every Sunday
     reminderEmail 10am to 11am Every Wednesday
     overwriteDatesifNewerScraped 11am to noon Every Thursday
-    remindifNoDescription 10am to 11am Every Tuesday
+    remindifNoDescription 10am to 11am Every Tuesdy
     scrapeLatestWritetoSheet 11am to noon Every Thursday
     planNextGroupMeeting Noon to 1pm Every Thursday
 
