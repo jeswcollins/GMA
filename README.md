@@ -1,8 +1,8 @@
 GMA - Group Meeting Automaton
 ===
 
-<i></b>What:</b> GMA chooses a group member to lead an instance of a recurring event and sends reminder e-mails
-   </b>Why:</b>so that we can all think about science instead of scheduling meetings :)</i>
+</b>What:</b> GMA chooses a group member to lead an instance of a recurring event and sends reminder e-mails<br>
+   </b>Why:</b>so that we can all think about science instead of scheduling meetings :)
     
   - Requires: Google Calendar and Documents, Group Member Names and E-mail Addresses
   - Features:
